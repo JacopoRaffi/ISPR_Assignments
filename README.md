@@ -18,3 +18,14 @@ Then plot the timeseries data highlighting (e.g. with different colours) the hid
 Train 1 denoising and 1 contractive autoencoder on the MNIST dataset. It is up to you to decide how many layers and neurons in each layer you want in the deep autoencoder. Show an accuracy comparison between the different autoencoders.
 
 Then, experiment with what happens if you feed the autoencoders with a random noise image and then you apply the iterative gradient ascent process described in the lecture to see if the reconstruction converges to the data manifold. Confront the reconstructions created by the 2 different models and comment on the results.
+
+## Assignment 4:
+This midterm is based on reading and summarizing the main findings of a single paper chosen from the list provided below. Students are expected to deliver a short presentation (no more than 8 slides) covering the following content:
+
+1. Introduction to the problem;
+2. Model description;
+3. Key catch of the model, represented by a commented equation;
+4. Key (empirical) result;
+5. Comment on novelties, strong points and weaknesses.
+
+Paper chosen: Chang, Bo, et al. "AntisymmetricRNN: A dynamical system view on recurrent neural networks." arXiv preprint [arXiv:1902.09689](https://arxiv.org/abs/1902.09689) (2019).
