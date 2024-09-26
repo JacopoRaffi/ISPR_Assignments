@@ -1,0 +1,2 @@
+## Assignment 2:
+Fit an Hidden Markov Model to the data in [DSET1](https://archive.ics.uci.edu/dataset/360/air+quality): it is sufficient to focus on a single column of the dataset of your choice (i.e. choose one of the sensors available and focus on analysis that single sensor). Experiment with training  HMMs with two different choices of the emission distribution and confront the results. Experiment also with HMMs with a varying number of hidden states (e.g. at least 2, 3 and 4) and identify what is the best choice according to your own reasoning. 
